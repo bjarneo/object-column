@@ -1,5 +1,6 @@
 object-column
 --
+![Travis](https://travis-ci.org/bjarneo/object-column.svg?branch=master)
 
 Return the values from a single column from the array of objects
 
